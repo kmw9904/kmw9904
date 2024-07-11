@@ -74,11 +74,6 @@
   </a>
 </div>
 
----
-
-<div align="center">
-  <img src="https://search.pstatic.net/sunny/?src=https%3A%2F%2Fcdn2.ppomppu.co.kr%2Fzboard%2Fdata3%2F2021%2F0209%2F20210209093412_nivfkhmp.jpg&type=sc960_832" alt="Profile Picture" width="300" />
-</div>
 
 ---
 
