@@ -41,7 +41,7 @@
 </h4>
 
 <div align="center">
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kms990415)](https://solved.ac/kms990415/)
+ (http://mazassumnida.wtf/api/v2/generate_badge?boj=kms990415)](https://solved.ac/kms990415/)
   </a>
 </div>
 
