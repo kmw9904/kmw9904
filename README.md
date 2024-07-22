@@ -42,7 +42,7 @@
 
 <div align="center">
   <a href="https://solved.ac/{handle}">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=kms" alt="Solved.ac 프로필" />
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=kms990415" alt="Solved.ac 프로필" />
   </a>
 </div>
 
