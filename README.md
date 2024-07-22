@@ -41,8 +41,7 @@
 </h4>
 
 <div align="center">
-  <a href="https://solved.ac/{handle}">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=kms990415" alt="Solved.ac 프로필" /kms990415>
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kms990415)](https://solved.ac/kms990415/)
   </a>
 </div>
 
