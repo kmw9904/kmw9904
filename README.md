@@ -39,8 +39,11 @@
   🏃 계속 성장 중 🏃
 </h4>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kms990415)](https://solved.ac/kms990415/)
+<div align="center">
 
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kms990415)](https://solved.ac/kms990415/)
+
+</div>
 
 ---
 
