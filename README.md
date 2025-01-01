@@ -95,10 +95,14 @@
 
 ---
 
-<h3 align="center">
-  🔄 최근 활동 🔄
-</h3>
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kmw9904&theme=react-dark" alt="GitHub Activity" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kmw9904&show_icons=true&theme=transparent" alt="GitHub stats" />
+</div>
+
+### 📈 공부 그래프
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=kmw9904&theme=transparent" alt="study graph" />
 </div>
