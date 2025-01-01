@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=random&height=400&section=header&text=Welcome%20to%20MW's%20GitHub%20👋&animation&fontSize=60" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there!%20I'm%20MW👋&animation=fadeIn" alt="header" />
 </div>
 
 <div align="right">
@@ -26,26 +26,34 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kmw9904&show_icons=true&theme=transparent" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kmw9904&theme=transparent" alt="study graph" />
+</div>
+
+---
+
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  
+  <div style="text-align: center; margin: 20px;">
+    <h3>🧩 백준 티어</h3>
+    <p>🔧 24.7.11 생성<br>🏃 계속 성장 중</p>
+    <a href="https://solved.ac/kms990415/" target="_blank">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kms990415" alt="Solved.ac Profile">
+    </a>
+  </div>
+  
+  <div style="text-align: center; margin: 20px;">
+    <h3>📝 블로그</h3>
+    <a href="https://velog.io/@kms990415">
+      <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog">
+    </a>
+  </div>
+  
 </div>
 
 ---
 
 <h3 align="center">
-  :zzz: 백준 티어
-</h3>
-
-<div align="center">
-  🔧 24.7.11 생성 🔧<br>
-  🏃 계속 성장 중 🏃<br>
-  <a href="https://solved.ac/kms990415/" target="_blank">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kms990415" alt="Solved.ac Profile">
-  </a>
-</div>
-
----
-
-<h3 align="center">
-  🔨 Once I've used 🔨
+  🔨 사용 기술 스택 🔨
 </h3>
 
 <div align="center">
@@ -63,7 +71,7 @@
 ---
 
 <h3 align="center">
-  📞 Contact 📞
+  📞 연락처 📞
 </h3>
 
 <div align="center">
@@ -78,19 +86,7 @@
 ---
 
 <h3 align="center">
-  📈 공부 그래프
-</h3>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kmw9904&theme=transparent" alt="study graph" />
-</div>
-
----
-
-<!-- 추가 섹션 시작 -->
-
-<h3 align="center">
-  🏆 GitHub Trophies
+  🏆 GitHub 업적 🏆
 </h3>
 
 <div align="center">
@@ -100,7 +96,7 @@
 ---
 
 <h3 align="center">
-  📊 Top Languages
+  📊 주요 사용 언어 📊
 </h3>
 
 <div align="center">
@@ -110,7 +106,7 @@
 ---
 
 <h3 align="center">
-  ⭐ Favorite Repositories
+  ⭐ 즐겨 사용하는 리포지토리 ⭐
 </h3>
 
 <div align="center">
@@ -128,21 +124,9 @@
 ---
 
 <h3 align="center">
-  🔄 Recent Activity
+  🔄 최근 활동 🔄
 </h3>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kmw9904&theme=react-dark" alt="GitHub Activity" />
-</div>
-
----
-
-<h3 align="center">
-  📝 블로그
-</h3>
-
-<div align="center">
-  <a href="https://velog.io/@kms990415">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog">
-  </a>
 </div>
