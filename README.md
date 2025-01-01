@@ -25,7 +25,7 @@
 ---
 
 <table align="center">
-  <tr>
+  
     <td align="center" valign="top">
       <h3>🧩 백준 티어</h3>
       <p>🔧 24.7.11 생성<br>🏃 계속 성장 중</p>
@@ -39,8 +39,7 @@
         <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog">
       </a>
     </td>
-  </tr>
-</table>
+
 
 ---
 
