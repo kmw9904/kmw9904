@@ -33,7 +33,7 @@
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
   
-  <div style="text-align: center; margin: 20px;">
+  <div style="text-align: center; margin: 10px;">
     <h3>🧩 백준 티어</h3>
     <p>🔧 24.7.11 생성<br>🏃 계속 성장 중</p>
     <a href="https://solved.ac/kms990415/" target="_blank">
@@ -41,7 +41,7 @@
     </a>
   </div>
   
-  <div style="text-align: center; margin: 20px;">
+  <div style="text-align: center; margin: 10px;">
     <h3>📝 기술 블로그</h3>
     <a href="https://velog.io/@kms990415">
       <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog">
