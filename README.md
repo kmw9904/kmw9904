@@ -24,7 +24,7 @@
 
 ---
 
-<table>
+<table align="center">
   <tr>
     <td align="center" valign="top">
       <h3>🧩 백준 티어</h3>
