@@ -41,7 +41,6 @@
   </div>
 </div>
 
-
 ---
 
 <h3 align="center">
@@ -95,13 +94,16 @@
 
 ---
 
-### 📊 GitHub Stats
-
+<h3 align="center">
+  📊 GitHub Stats
+</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kmw9904&show_icons=true&theme=transparent" alt="GitHub stats" />
 </div>
 
-### 📈 공부 그래프
+<h3 align="center">
+ 📈 공부 그래프
+</h3>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.vercel.app/?user=kmw9904&theme=transparent" alt="study graph" />
