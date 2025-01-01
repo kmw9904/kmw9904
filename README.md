@@ -78,26 +78,6 @@
 ---
 
 <h3 align="center">
-  🏆 GitHub 업적 🏆
-</h3>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kmw9904&theme=flat&column=7" alt="Trophies" />
-</div>
-
----
-
-<h3 align="center">
-  📊 주요 사용 언어 📊
-</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmw9904&layout=compact&theme=transparent" alt="Top Languages" />
-</div>
-
----
-
-<h3 align="center">
   ⭐ 즐겨 사용하는 리포지토리 ⭐
 </h3>
 
