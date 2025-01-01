@@ -34,7 +34,7 @@
   </div>
   
   <div style="display: inline-block; width: 45%; text-align: center; margin: 10px;">
-    <h3>📝 블로그</h3>
+    <h3>📝 기술 블로그</h3>
     <a href="https://velog.io/@kms990415">
       <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog">
     </a>
