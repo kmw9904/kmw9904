@@ -33,7 +33,7 @@
   :zzz: 백준 티어
 </h3>
 
-<div style="text-align: center;">
+<div align="center">
   🔧 24.7.11 생성 🔧<br>
   🏃 계속 성장 중 🏃<br>
   <a href="https://solved.ac/kms990415/" target="_blank">
