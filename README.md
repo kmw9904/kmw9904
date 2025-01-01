@@ -115,13 +115,13 @@
 
 <div align="center">
   <a href="https://github.com/kmw9904/Learning-React">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmw9904&repo=repo1&theme=transparent" alt="Learning-React" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmw9904&repo=Learning-React&theme=transparent" alt="Learning-React" />
   </a>
   <a href="https://github.com/kmw9904/Learning_Deep">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmw9904&repo=repo2&theme=transparent" alt="Learning_Deep" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmw9904&repo=Learning_Deep&theme=transparent" alt="Learning_Deep" />
   </a>
   <a href="https://github.com/kmw9904/projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmw9904&repo=repo3&theme=transparent" alt="projects" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmw9904&repo=projects&theme=transparent" alt="projects" />
   </a>
 </div>
 
@@ -132,7 +132,17 @@
 </h3>
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=kmw9904&theme=react-dark&hide_border=true" alt="GitHub Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kmw9904&theme=react-dark" alt="GitHub Activity" />
 </div>
 
-<!-- 추가 섹션 끝 -->
+---
+
+<h3 align="center">
+  📝 블로그
+</h3>
+
+<div align="center">
+  <a href="https://velog.io/@kms990415">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog">
+  </a>
+</div>
