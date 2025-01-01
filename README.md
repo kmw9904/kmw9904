@@ -115,13 +115,13 @@
 
 <div align="center">
   <a href="https://github.com/yourusername/repo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmw9904&repo=repo1&theme=transparent" alt="Repo1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmw9904&repo=repo1&theme=transparent" alt="Learning-React" />
   </a>
   <a href="https://github.com/yourusername/repo2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmw9904&repo=repo2&theme=transparent" alt="Repo2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmw9904&repo=repo2&theme=transparent" alt="Learning_Deep" />
   </a>
   <a href="https://github.com/yourusername/repo3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmw9904&repo=repo3&theme=transparent" alt="Repo3" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmw9904&repo=repo3&theme=transparent" alt="projects" />
   </a>
 </div>
 
