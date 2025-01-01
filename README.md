@@ -24,14 +24,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kmw9904&show_icons=true&theme=transparent" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kmw9904&theme=transparent" alt="study graph" />
-</div>
-
----
-
-<div style="display: flex; justify-content: space-between; flex-wrap: nowrap; margin: 20px 0;">
+<div style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: nowrap; margin: 20px 0;">
   
   <div style="text-align: center; flex: 1; margin-right: 10px;">
     <h3>🧩 백준 티어</h3>
@@ -49,6 +42,7 @@
   </div>
   
 </div>
+
 ---
 
 <h3 align="center">
