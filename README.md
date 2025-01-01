@@ -24,21 +24,24 @@
 
 ---
 
-<table align="center">
+<div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
   
-    <td align="center" valign="top">
-      <h3>🧩 백준 티어</h3>
-      <p>🔧 24.7.11 생성<br>🏃 계속 성장 중</p>
-      <a href="https://solved.ac/kms990415/" target="_blank">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kms990415" alt="Solved.ac Profile">
-      </a>
-    </td>
-    <td align="center" valign="top">
-      <h3>📝 블로그</h3>
-      <a href="https://velog.io/@kms990415">
-        <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog">
-      </a>
-    </td>
+  <div style="text-align: center; flex: 1;">
+    <h3>🧩 백준 티어</h3>
+    <p>🔧 24.7.11 생성<br>🏃 계속 성장 중</p>
+    <a href="https://solved.ac/kms990415/" target="_blank">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kms990415" alt="Solved.ac Profile">
+    </a>
+  </div>
+  
+  <div style="text-align: center; flex: 1;">
+    <h3>📝 블로그</h3>
+    <a href="https://velog.io/@kms990415">
+      <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog">
+    </a>
+  </div>
+  
+</div>
 
 
 ---
