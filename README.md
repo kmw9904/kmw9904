@@ -23,6 +23,7 @@
 </h4>
 
 ---
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kmw9904&show_icons=true&theme=transparent" alt="GitHub stats" />
 </div>
@@ -40,8 +41,6 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kms990415" alt="Solved.ac Profile">
   </a>
 </div>
-
-
 
 ---
 
@@ -61,8 +60,6 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </div>
 
-
-
 ---
 
 <h3 align="center">
@@ -78,7 +75,6 @@
   </a>
 </div>
 
-
 ---
 
 <h3 align="center">
@@ -88,3 +84,55 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kmw9904&theme=transparent" alt="study graph" />
 </div>
+
+---
+
+<!-- 추가 섹션 시작 -->
+
+<h3 align="center">
+  🏆 GitHub Trophies
+</h3>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kmw9904&theme=flat&column=7" alt="Trophies" />
+</div>
+
+---
+
+<h3 align="center">
+  📊 Top Languages
+</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmw9904&layout=compact&theme=transparent" alt="Top Languages" />
+</div>
+
+---
+
+<h3 align="center">
+  ⭐ Favorite Repositories
+</h3>
+
+<div align="center">
+  <a href="https://github.com/yourusername/repo1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmw9904&repo=repo1&theme=transparent" alt="Repo1" />
+  </a>
+  <a href="https://github.com/yourusername/repo2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmw9904&repo=repo2&theme=transparent" alt="Repo2" />
+  </a>
+  <a href="https://github.com/yourusername/repo3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmw9904&repo=repo3&theme=transparent" alt="Repo3" />
+  </a>
+</div>
+
+---
+
+<h3 align="center">
+  🔄 Recent Activity
+</h3>
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=kmw9904&theme=react-dark&hide_border=true" alt="GitHub Activity" />
+</div>
+
+<!-- 추가 섹션 끝 -->
