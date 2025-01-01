@@ -114,13 +114,13 @@
 </h3>
 
 <div align="center">
-  <a href="https://github.com/yourusername/repo1">
+  <a href="https://github.com/kmw9904/Learning-React">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmw9904&repo=repo1&theme=transparent" alt="Learning-React" />
   </a>
-  <a href="https://github.com/yourusername/repo2">
+  <a href="https://github.com/kmw9904/Learning_Deep">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmw9904&repo=repo2&theme=transparent" alt="Learning_Deep" />
   </a>
-  <a href="https://github.com/yourusername/repo3">
+  <a href="https://github.com/kmw9904/projects">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmw9904&repo=repo3&theme=transparent" alt="projects" />
   </a>
 </div>
